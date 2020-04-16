@@ -1,2 +1,0 @@
-# lelang.zip
-Aplikasi lelang
